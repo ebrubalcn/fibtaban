@@ -1,0 +1,3 @@
+fibtaban
+========
+Veri yapıları ödevidir.
